@@ -22,11 +22,11 @@
 
 team_t team = {
 	/* Team name */
-	"dynamo",
+	"Gryffindor",
 	/* First member's full name */
-	"Yash Shah (201101202)",
+	"Shuchit Gandhi",
 	/* First member's email address */
-	"yash9414@gmail.com",
+	"shuchitgandhi@gmail.com",
 	"",
 	""
 };
